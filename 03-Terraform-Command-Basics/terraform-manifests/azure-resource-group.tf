@@ -1,4 +1,4 @@
-# Terraform Settings Block test
+# Terraform Settings Block test 3
 terraform {
   required_version = ">= 1.0.0"
   required_providers {
